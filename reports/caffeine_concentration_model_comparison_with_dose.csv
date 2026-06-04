@@ -1,0 +1,5 @@
+model,r2,mae_ng_ml,rmse_ng_ml,n_rows_used,features
+Gradient Boosting,0.904092870681717,347.1721958383834,443.1450007401848,193,"time, caffeine_dose_mg, study_name, tissue, method"
+Random Forest,0.9016804730785098,352.7273600046103,448.6837060300465,193,"time, caffeine_dose_mg, study_name, tissue, method"
+Linear Regression,0.6217901919989992,684.0190714186375,880.0083679057552,193,"time, caffeine_dose_mg, study_name, tissue, method"
+SVR,-0.07315262921128096,1018.917203410609,1482.3513569086551,193,"time, caffeine_dose_mg, study_name, tissue, method"

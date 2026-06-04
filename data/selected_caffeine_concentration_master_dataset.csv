@@ -1,0 +1,505 @@
+study_name,source_file,source_sheet,individual_id,label,intervention,measurement,substance,tissue,method,time,time_unit,concentration,concentration_unit
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,0.0,hr,0.0,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,0.25,hr,2458.182,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,5207.273,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,4989.091,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,4581.8184,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,4392.727,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,4014.5454,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,3607.2727,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,2763.6365,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,8.0,hr,2138.182,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,12.0,hr,1265.4546,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,24.0,hr,320.0,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,36.0,hr,72.72727,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,48.0,hr,87.27273,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,0.0,hr,14.545455,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,0.25,hr,1847.2727,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,5221.8184,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,5614.5454,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,5120.0,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,4829.091,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,4465.4546,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,4130.909,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,3418.182,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,8.0,hr,2894.5454,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,12.0,hr,1978.1818,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,24.0,hr,756.36365,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,36.0,hr,276.36365,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_10mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 10mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 10mg",concentration,caffeine,plasma,HPLC MS/MS,48.0,hr,145.45454,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,0.0,hr,0.0,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,0.25,hr,1553.5391,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,4007.2595,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,4283.1216,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,3963.7024,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,3687.8403,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,3281.3066,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,2976.4065,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,2264.9727,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,8.0,hr,1800.363,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,12.0,hr,1030.853,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,24.0,hr,290.38113,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,36.0,hr,87.114334,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg,"caffeine_200mg, midazolam_2mg",concentration,caffeine,plasma,HPLC MS/MS,48.0,hr,29.038113,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,0.0,hr,0.0,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,0.25,hr,1698.7296,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,4500.907,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,4878.403,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,4486.388,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,4196.0073,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,3920.1453,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,3629.7642,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,3121.5972,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,8.0,hr,2671.5063,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,12.0,hr,1945.5536,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,24.0,hr,856.6243,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,36.0,hr,377.49545,ng/ml
+Edwards2017,Edwards2017.xlsx,Fig1,,Fig1_Study_1_25mg_caffeine_200mg_ midazolam_2mg_OCA pre-treatment 25mg,"caffeine_200mg, midazolam_2mg,OCA pre-treatment 25mg",concentration,caffeine,plasma,HPLC MS/MS,48.0,hr,217.78584,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,30.512556,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.33,hr,168.28366,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.67,hr,848.8788,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.0,hr,1008.6807,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,1156.3967,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1135.636,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,794.5583,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,696.85455,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,803.3578,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,568.5556,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,328.68378,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,311.36557,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_1,Fig1_caffeine_1,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,59.698566,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,87.987854,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.33,hr,316.1865,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.67,hr,917.1508,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.0,hr,1136.1346,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,1256.867,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1234.3025,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,978.4708,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,848.0607,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,5.0,hr,883.8362,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,726.0693,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,492.914,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,291.81137,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,243.96696,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_2,Fig1_caffeine_2,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,21.454422,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,214.79749,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.33,hr,612.02325,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.67,hr,1076.998,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.0,hr,1302.7811,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,1398.9457,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1333.5309,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,1183.6543,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,1121.6396,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,5.0,hr,1019.4759,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,915.67096,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,603.3866,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,495.54074,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,372.20862,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_3,Fig1_caffeine_3,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,77.101814,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,339.62955,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.33,hr,722.97955,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.67,hr,1264.7144,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.0,hr,1502.7739,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,1557.0731,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1458.0631,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,1263.7233,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,1183.3667,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,5.0,hr,960.59564,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,852.6201,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,696.0029,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,581.8795,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,447.58902,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_4,Fig1_caffeine_4,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,113.50976,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,420.7477,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.33,hr,809.5151,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.67,hr,1566.844,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.0,hr,1723.1444,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,1764.3002,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1584.6807,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,1357.2601,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,1324.9761,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,5.0,hr,1190.0366,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,995.2108,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,640.3665,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,554.8578,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,472.1989,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_5,Fig1_caffeine_5,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,142.303,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,515.0786,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.33,hr,901.0172,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.67,hr,1382.7876,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.0,hr,1407.5587,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,1449.7887,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1286.7852,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,1234.022,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,1148.6901,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,5.0,hr,926.9155,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,837.49036,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,589.20056,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,529.05774,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,340.41586,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_6,Fig1_caffeine_6,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,66.447014,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,335.60678,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.5,hr,1702.948,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.0,hr,1895.2446,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,1940.526,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1691.8243,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,1466.3733,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,1431.5276,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,5.0,hr,1293.3585,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,1107.6593,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,915.11127,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,725.20465,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,585.0033,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_7,Fig1_caffeine_7,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,161.24174,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,549.9214,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.33,hr,2084.8604,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.67,hr,2347.9475,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.0,hr,2292.1167,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,2121.1938,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1963.0475,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,1742.5145,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,1602.8085,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,5.0,hr,1500.8433,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,1405.3097,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,1239.5288,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,1093.2876,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,760.0991,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_8,Fig1_caffeine_8,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,637.4016,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,559.8297,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.33,hr,1906.8087,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.67,hr,2084.5334,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,2121.6428,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1817.0194,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,1556.2311,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,1211.8392,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,5.0,hr,1088.4135,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,932.14,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,751.95026,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,639.97504,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,513.2326,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_9,Fig1_caffeine_9,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,129.38402,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.25,hr,394.0615,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.5,hr,895.64417,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,0.75,hr,1652.8905,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,1.5,hr,1702.3741,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.0,hr,1603.8013,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,2.5,hr,1510.8651,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,3.0,hr,1406.5991,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,4.0,hr,1293.8047,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,5.0,hr,1197.1664,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,6.0,hr,1025.2382,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,8.0,hr,756.4613,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,10.0,hr,667.213,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,12.0,hr,571.24054,ng/ml
+Lenuzza2016,Lenuzza2016.xlsx,Fig1,caffeine_10,Fig1_caffeine_10,"apap60mg_po,repaglinide0.25mg_po,dex18mg_po,digoxin0.25mg_po,memantine5mg_po,midazolam4mg_po,omeprazole10mg_po,rosuvastatin5mg_po,tolbutamide10m_po,caffeine73mg_po",concentration,caffeine,plasma,LC-MS-MS,24.0,hr,150.13197,ng/ml
+He2017,He2017.xlsx,Fig3,S1,Caff_S1,Caffeine,concentration,caffeine,plasma,LC MS/MS,0.16905738,hr,813.06744,ng/ml
+He2017,He2017.xlsx,Fig3,S1,Caff_S1,Caffeine,concentration,caffeine,plasma,LC MS/MS,7.914959,hr,1410.4805,ng/ml
+He2017,He2017.xlsx,Fig3,S1,Caff_S1,Caffeine,concentration,caffeine,plasma,LC MS/MS,24.006147,hr,224.85303,ng/ml
+He2017,He2017.xlsx,Fig3,S2,Caff_S2,Caffeine,concentration,caffeine,plasma,LC MS/MS,0.21516393,hr,903.0176,ng/ml
+He2017,He2017.xlsx,Fig3,S2,Caff_S2,Caffeine,concentration,caffeine,plasma,LC MS/MS,3.9959016,hr,1932.3062,ng/ml
+He2017,He2017.xlsx,Fig3,S2,Caff_S2,Caffeine,concentration,caffeine,plasma,LC MS/MS,5.8862705,hr,1303.7367,ng/ml
+He2017,He2017.xlsx,Fig3,S2,Caff_S2,Caffeine,concentration,caffeine,plasma,LC MS/MS,7.914959,hr,1173.8707,ng/ml
+He2017,He2017.xlsx,Fig3,S2,Caff_S2,Caffeine,concentration,caffeine,plasma,LC MS/MS,23.913935,hr,106.46704,ng/ml
+He2017,He2017.xlsx,Fig3,S3,Caff_S3,Caffeine,concentration,caffeine,plasma,LC MS/MS,0.12295082,hr,1486.4554,ng/ml
+He2017,He2017.xlsx,Fig3,S3,Caff_S3,Caffeine,concentration,caffeine,plasma,LC MS/MS,3.949795,hr,4473.35,ng/ml
+He2017,He2017.xlsx,Fig3,S3,Caff_S3,Caffeine,concentration,caffeine,plasma,LC MS/MS,5.9784837,hr,2753.426,ng/ml
+He2017,He2017.xlsx,Fig3,S3,Caff_S3,Caffeine,concentration,caffeine,plasma,LC MS/MS,7.961066,hr,2414.968,ng/ml
+He2017,He2017.xlsx,Fig3,S3,Caff_S3,Caffeine,concentration,caffeine,plasma,LC MS/MS,23.960041,hr,427.57535,ng/ml
+He2017,He2017.xlsx,Fig3,S4,Caff_S4,Caffeine,concentration,caffeine,plasma,LC MS/MS,5.9631147,hr,2183.939,ng/ml
+He2017,He2017.xlsx,Fig3,S4,Caff_S4,Caffeine,concentration,caffeine,plasma,LC MS/MS,7.930328,hr,1163.6511,ng/ml
+He2017,He2017.xlsx,Fig3,S4,Caff_S4,Caffeine,concentration,caffeine,plasma,LC MS/MS,23.913935,hr,19.778917,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_S5,Caffeine,concentration,caffeine,plasma,LC MS/MS,0.18442623,hr,164.13072,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_S5,Caffeine,concentration,caffeine,plasma,LC MS/MS,0.4918033,hr,7966.4683,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_S5,Caffeine,concentration,caffeine,plasma,LC MS/MS,5.9016395,hr,2940.048,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_S5,Caffeine,concentration,caffeine,plasma,LC MS/MS,7.991803,hr,2342.18,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_S5,Caffeine,concentration,caffeine,plasma,LC MS/MS,24.036884,hr,336.18805,ng/ml
+He2017,He2017.xlsx,Fig3,S6,Caff_S6,Caffeine,concentration,caffeine,plasma,LC MS/MS,0.24590164,hr,588.329,ng/ml
+He2017,He2017.xlsx,Fig3,S6,Caff_S6,Caffeine,concentration,caffeine,plasma,LC MS/MS,3.9344263,hr,2425.5493,ng/ml
+He2017,He2017.xlsx,Fig3,S6,Caff_S6,Caffeine,concentration,caffeine,plasma,LC MS/MS,5.9016395,hr,1594.159,ng/ml
+He2017,He2017.xlsx,Fig3,S6,Caff_S6,Caffeine,concentration,caffeine,plasma,LC MS/MS,7.930328,hr,1104.1752,ng/ml
+He2017,He2017.xlsx,Fig3,S6,Caff_S6,Caffeine,concentration,caffeine,plasma,LC MS/MS,24.036884,hr,84.446625,ng/ml
+He2017,He2017.xlsx,Fig3,S7,Caff_S7,Caffeine,concentration,caffeine,plasma,LC MS/MS,0.12295082,hr,2693.8894,ng/ml
+He2017,He2017.xlsx,Fig3,S7,Caff_S7,Caffeine,concentration,caffeine,plasma,LC MS/MS,3.9959016,hr,3208.7,ng/ml
+He2017,He2017.xlsx,Fig3,S7,Caff_S7,Caffeine,concentration,caffeine,plasma,LC MS/MS,8.053279,hr,1539.3656,ng/ml
+He2017,He2017.xlsx,Fig3,S8,Caff_S8,Caffeine,concentration,caffeine,plasma,LC MS/MS,0.18442623,hr,254.13431,ng/ml
+He2017,He2017.xlsx,Fig3,S8,Caff_S8,Caffeine,concentration,caffeine,plasma,LC MS/MS,7.991803,hr,1650.9028,ng/ml
+He2017,He2017.xlsx,Fig3,S1,Caff_Thea125_Caff_S1,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,0.27070063,hr,1033.8254,ng/ml
+He2017,He2017.xlsx,Fig3,S1,Caff_Thea125_Caff_S1,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,1.8949045,hr,2472.9543,ng/ml
+He2017,He2017.xlsx,Fig3,S1,Caff_Thea125_Caff_S1,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,5.9076433,hr,1527.7251,ng/ml
+He2017,He2017.xlsx,Fig3,S1,Caff_Thea125_Caff_S1,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,8.009554,hr,1450.2142,ng/ml
+He2017,He2017.xlsx,Fig3,S2,Caff_Thea125_Caff_S2,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,0.31847134,hr,1103.3507,ng/ml
+He2017,He2017.xlsx,Fig3,S2,Caff_Thea125_Caff_S2,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,5.9076433,hr,1224.4462,ng/ml
+He2017,He2017.xlsx,Fig3,S2,Caff_Thea125_Caff_S2,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,8.009554,hr,1341.2588,ng/ml
+He2017,He2017.xlsx,Fig3,S2,Caff_Thea125_Caff_S2,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,24.060509,hr,187.87515,ng/ml
+He2017,He2017.xlsx,Fig3,S3,Caff_Thea125_Caff_S3,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,0.17515923,hr,128.8026,ng/ml
+He2017,He2017.xlsx,Fig3,S3,Caff_Thea125_Caff_S3,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,6.003185,hr,1695.3969,ng/ml
+He2017,He2017.xlsx,Fig3,S4,Caff_Thea125_Caff_S4,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,0.12738854,hr,426.6042,ng/ml
+He2017,He2017.xlsx,Fig3,S4,Caff_Thea125_Caff_S4,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,3.9490447,hr,3654.383,ng/ml
+He2017,He2017.xlsx,Fig3,S4,Caff_Thea125_Caff_S4,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,5.955414,hr,2816.753,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_Thea125_Caff_S5,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,0.22292994,hr,1695.3969,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_Thea125_Caff_S5,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,3.9968152,hr,3750.7715,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_Thea125_Caff_S5,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,5.859873,hr,3750.7715,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_Thea125_Caff_S5,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,7.914013,hr,3006.1807,ng/ml
+He2017,He2017.xlsx,Fig3,S5,Caff_Thea125_Caff_S5,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,23.964968,hr,575.50653,ng/ml
+He2017,He2017.xlsx,Fig3,S6,Caff_Thea125_Caff_S6,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,0.17515923,hr,638.6698,ng/ml
+He2017,He2017.xlsx,Fig3,S6,Caff_Thea125_Caff_S6,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,3.9490447,hr,2538.1812,ng/ml
+He2017,He2017.xlsx,Fig3,S6,Caff_Thea125_Caff_S6,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,5.955414,hr,1412.9462,ng/ml
+He2017,He2017.xlsx,Fig3,S6,Caff_Thea125_Caff_S6,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,7.914013,hr,736.9912,ng/ml
+He2017,He2017.xlsx,Fig3,S7,Caff_Thea125_Caff_S7,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,0.12738854,hr,8516.799,ng/ml
+He2017,He2017.xlsx,Fig3,S7,Caff_Thea125_Caff_S7,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,3.901274,hr,1695.3969,ng/ml
+He2017,He2017.xlsx,Fig3,S7,Caff_Thea125_Caff_S7,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,5.9076433,hr,1177.5515,ng/ml
+He2017,He2017.xlsx,Fig3,S7,Caff_Thea125_Caff_S7,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,7.9617834,hr,1007.25793,ng/ml
+He2017,He2017.xlsx,Fig3,S8,Caff_Thea125_Caff_S8,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,1.9426751,hr,6737.792,ng/ml
+He2017,He2017.xlsx,Fig3,S8,Caff_Thea125_Caff_S8,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,3.901274,hr,4994.505,ng/ml
+He2017,He2017.xlsx,Fig3,S8,Caff_Thea125_Caff_S8,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,5.9076433,hr,4619.2646,ng/ml
+He2017,He2017.xlsx,Fig3,S8,Caff_Thea125_Caff_S8,"Thea125, Caffeine",concentration,caffeine,plasma,LC MS/MS,23.869427,hr,84.921974,ng/ml
+Jost1987,Jost1987.xlsx,Fig2,control_ind1,control_ind1,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,5.5717006,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind1,control_ind1,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,0.6944243,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind2,control_ind2,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,7.1469426,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind2,control_ind2,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,1.2147465,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind3,control_ind3,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,7.0038557,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind3,control_ind3,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,1.3309376,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind4,control_ind4,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,8.156631,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind4,control_ind4,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,1.8897794,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind5,control_ind5,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,10.568089,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind5,control_ind5,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,1.436394,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind6,control_ind6,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,8.9381895,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind6,control_ind6,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,2.06028,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind7,control_ind7,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,9.596612,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind7,control_ind7,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,1.9984939,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind8,control_ind8,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,5.834336,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind8,control_ind8,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,0.70526457,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind9,control_ind9,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,10.841098,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind9,control_ind9,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,1.1662027,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind10,control_ind10,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,7.8731027,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind10,control_ind10,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,2.3274841,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind11,control_ind11,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,8.367608,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind11,control_ind11,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,2.9398925,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind12,control_ind12,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,11.349615,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind12,control_ind12,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,3.7522793,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind13,control_ind13,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,11.940389,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind13,control_ind13,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,3.4070942,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind14,control_ind14,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,10.410488,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind14,control_ind14,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,3.9279757,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind15,control_ind15,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,13.695661,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind15,control_ind15,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,6.7644196,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind16,control_ind16,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,13.285514,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind16,control_ind16,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,4.5281334,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind17,control_ind17,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,17.927195,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind17,control_ind17,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,4.788532,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind18,control_ind18,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,18.297405,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind18,control_ind18,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,10.10489,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind19,control_ind19,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,20.251669,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind19,control_ind19,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,10.003363,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind20,control_ind20,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,20.986763,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind20,control_ind20,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,10.469821,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind21,control_ind21,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,22.417395,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind21,control_ind21,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,6.5619216,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind22,control_ind22,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,30.410107,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,control_ind22,control_ind22,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,18.217663,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind1,noncirrhotic_ind1,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,56.925503,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind1,noncirrhotic_ind1,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,52.259834,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind2,noncirrhotic_ind2,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,46.92558,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind2,noncirrhotic_ind2,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,36.99007,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind3,noncirrhotic_ind3,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,38.299534,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind3,noncirrhotic_ind3,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,25.400692,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind4,noncirrhotic_ind4,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,26.438114,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind4,noncirrhotic_ind4,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,14.088752,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind5,noncirrhotic_ind5,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,25.251472,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind5,noncirrhotic_ind5,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,19.904453,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind6,noncirrhotic_ind6,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,21.5717,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind6,noncirrhotic_ind6,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,16.408417,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind7,noncirrhotic_ind7,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,28.95872,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind7,noncirrhotic_ind7,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,10.8723545,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind8,noncirrhotic_ind8,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,23.39149,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind8,noncirrhotic_ind8,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,8.476036,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind9,noncirrhotic_ind9,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,22.348282,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind9,noncirrhotic_ind9,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,9.57645,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind10,noncirrhotic_ind10,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,21.243645,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind10,noncirrhotic_ind10,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,9.921672,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind11,noncirrhotic_ind11,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,20.192255,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind11,noncirrhotic_ind11,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,8.306731,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind12,noncirrhotic_ind12,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,19.889643,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind12,noncirrhotic_ind12,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,10.655689,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind13,noncirrhotic_ind13,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,16.98888,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind13,noncirrhotic_ind13,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,13.390365,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind14,noncirrhotic_ind14,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,15.740298,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind14,noncirrhotic_ind14,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,10.707644,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind15,noncirrhotic_ind15,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,14.078213,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind15,noncirrhotic_ind15,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,3.760253,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind16,noncirrhotic_ind16,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,13.794183,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind16,noncirrhotic_ind16,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,4.357945,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind17,noncirrhotic_ind17,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,13.176916,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind17,noncirrhotic_ind17,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,3.3967774,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind18,noncirrhotic_ind18,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,15.737881,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind18,noncirrhotic_ind18,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,1.8090298,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind19,noncirrhotic_ind19,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,7.8078856,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind19,noncirrhotic_ind19,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,2.1397362,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind20,noncirrhotic_ind20,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,8.555792,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind20,noncirrhotic_ind20,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,2.30905,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind21,noncirrhotic_ind21,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,10.325514,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind21,noncirrhotic_ind21,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,2.9315794,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind22,noncirrhotic_ind22,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,11.546553,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind22,noncirrhotic_ind22,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,5.365712,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind23,noncirrhotic_ind23,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,11.086263,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind23,noncirrhotic_ind23,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,4.1834626,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind24,noncirrhotic_ind24,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,13.652415,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind24,noncirrhotic_ind24,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,3.0225582,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind25,noncirrhotic_ind25,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,12.146717,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind25,noncirrhotic_ind25,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,3.5197408,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind26,noncirrhotic_ind26,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,14.294265,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind26,noncirrhotic_ind26,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,2.9923074,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind27,noncirrhotic_ind27,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,21.57068,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,noncirrhotic_ind27,noncirrhotic_ind27,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,8.696507,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind1,cirrhotic_ind1,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,68.8354,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind1,cirrhotic_ind1,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,59.155807,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind2,cirrhotic_ind2,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,65.43556,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind2,cirrhotic_ind2,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,64.495285,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind3,cirrhotic_ind3,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,60.935715,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind3,cirrhotic_ind3,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,46.596474,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind4,cirrhotic_ind4,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,53.669247,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind4,cirrhotic_ind4,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,50.281006,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind5,cirrhotic_ind5,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,32.144585,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind5,cirrhotic_ind5,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,30.728912,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind6,cirrhotic_ind6,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,46.07583,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind6,cirrhotic_ind6,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,17.837048,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind7,cirrhotic_ind7,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,37.98587,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind7,cirrhotic_ind7,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,24.191248,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind8,cirrhotic_ind8,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,32.125095,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind8,cirrhotic_ind8,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,27.751692,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind9,cirrhotic_ind9,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,28.01161,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind9,cirrhotic_ind9,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,23.827578,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind10,cirrhotic_ind10,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,29.467825,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind10,cirrhotic_ind10,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,21.198847,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind11,cirrhotic_ind11,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,28.580956,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind11,cirrhotic_ind11,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,23.70832,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind12,cirrhotic_ind12,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,26.48689,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind12,cirrhotic_ind12,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,21.198345,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind13,cirrhotic_ind13,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,26.62002,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind13,cirrhotic_ind13,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,12.307749,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind14,cirrhotic_ind14,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,26.217257,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind14,cirrhotic_ind14,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,17.12768,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind15,cirrhotic_ind15,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,26.755398,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind15,cirrhotic_ind15,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,17.12559,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind16,cirrhotic_ind16,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,25.173126,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind16,cirrhotic_ind16,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,15.786177,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind17,cirrhotic_ind17,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,26.615406,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind17,cirrhotic_ind17,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,11.462639,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind18,cirrhotic_ind18,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,20.751696,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind18,cirrhotic_ind18,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,12.75329,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind19,cirrhotic_ind19,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,26.35069,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind19,cirrhotic_ind19,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,13.149077,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind20,cirrhotic_ind20,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,23.677807,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind20,cirrhotic_ind20,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,8.581034,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind21,cirrhotic_ind21,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,18.09353,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind21,cirrhotic_ind21,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,10.303131,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind22,cirrhotic_ind22,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,16.764885,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind22,cirrhotic_ind22,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,7.712378,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind23,cirrhotic_ind23,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,18.46594,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind23,cirrhotic_ind23,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,5.9836187,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind24,cirrhotic_ind24,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,14.466266,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind24,cirrhotic_ind24,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,10.676356,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind25,cirrhotic_ind25,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,11.807625,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind25,cirrhotic_ind25,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,2.2671208,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind26,cirrhotic_ind26,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,8.838771,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind26,cirrhotic_ind26,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,3.5453262,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind27,cirrhotic_ind27,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,10.0,hr,13.891882,µmol/l
+Jost1987,Jost1987.xlsx,Fig2,cirrhotic_ind27,cirrhotic_ind27,"caff_12am, caff_4pm",concentration,caffeine,saliva,EMIT,20.0,hr,1.8785741,µmol/l
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-001,QPD-001_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,2.36,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-001,QPD-001_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,2.14,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-001,QPD-001_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,1.85,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-001,QPD-001_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,1.38,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-001,QPD-001_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,0.78,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-001,QPD-001_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,0.44,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-001,QPD-001_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,0.25,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-001,QPD-001_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,0.07,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-002,QPD-002_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,3.46,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-002,QPD-002_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,2.89,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-002,QPD-002_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,2.66,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-002,QPD-002_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,2.55,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-002,QPD-002_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,2.15,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-002,QPD-002_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,1.5,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-002,QPD-002_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,1.16,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-002,QPD-002_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,0.63,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-002,QPD-002_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,0.12,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-003,QPD-003_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,3.46,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-003,QPD-003_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,2.89,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-003,QPD-003_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,2.66,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-003,QPD-003_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,2.55,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-003,QPD-003_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,2.15,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-003,QPD-003_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,1.5,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-003,QPD-003_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,1.16,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-003,QPD-003_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,0.63,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-003,QPD-003_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,0.12,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-004,QPD-004_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,2.95,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-004,QPD-004_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,2.75,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-004,QPD-004_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,2.38,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-004,QPD-004_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,2.11,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-004,QPD-004_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,1.73,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-004,QPD-004_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,1.31,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-004,QPD-004_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,1.02,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-004,QPD-004_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,0.54,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-004,QPD-004_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,0.14,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-005,QPD-005_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,3.05,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-005,QPD-005_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,2.59,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-005,QPD-005_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,2.28,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-005,QPD-005_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,1.87,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-005,QPD-005_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,1.49,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-005,QPD-005_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,1.2,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-005,QPD-005_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,1.01,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-005,QPD-005_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,0.52,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-005,QPD-005_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,0.13,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-006,QPD-006_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,1.41,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-006,QPD-006_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,1.55,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-006,QPD-006_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,1.47,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-006,QPD-006_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,1.37,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-006,QPD-006_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,1.18,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-006,QPD-006_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,0.92,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-006,QPD-006_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,0.61,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-006,QPD-006_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,0.37,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-006,QPD-006_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,0.11,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-007,QPD-007_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,3.37,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-007,QPD-007_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,3.36,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-007,QPD-007_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,3.16,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-007,QPD-007_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,2.8,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-007,QPD-007_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,2.6,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-007,QPD-007_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,2.36,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-007,QPD-007_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,2.1,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-007,QPD-007_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,1.6,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-007,QPD-007_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,0.76,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-008,QPD-008_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,4.23,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-008,QPD-008_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,3.75,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-008,QPD-008_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,3.64,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-008,QPD-008_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,3.47,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-008,QPD-008_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,3.35,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-008,QPD-008_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,3.19,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-008,QPD-008_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,2.78,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-008,QPD-008_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,2.48,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-008,QPD-008_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,1.68,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-009,QPD-009_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,3.31,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-009,QPD-009_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,3.02,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-009,QPD-009_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,2.67,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-009,QPD-009_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,2.52,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-009,QPD-009_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,2.16,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-009,QPD-009_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,1.92,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-009,QPD-009_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,1.47,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-009,QPD-009_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,0.87,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig1,QPD-009,QPD-009_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,0.26,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,control_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,3.056,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,control_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,2.652,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,control_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,2.366,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,control_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,2.092,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,control_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,1.66,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,control_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,1.19,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,control_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,0.92,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,control_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,0.478,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,control_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,0.1275,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,pod1_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.166666666666667,hr,3.08,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,pod1_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,0.5,hr,2.92,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,pod1_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.0,hr,2.735,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,pod1_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,1.5,hr,2.54,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,pod1_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.0,hr,2.3225,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,pod1_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,2.5,hr,2.0975,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,pod1_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,3.0,hr,1.74,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,pod1_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,4.0,hr,1.33,µg/ml
+PVLDrugs,PVLDrugs.xlsx,Fig2,,pod1_caffeine,"MID2, CAF5, COD2",concentration,caffeine,plasma,HPLC MS/MS,6.0,hr,0.7025,µg/ml
